@@ -13,8 +13,16 @@ pip install pyjokes
 ````
 
 # Usage
+
 ``` Python
 import pyjokes   # generates random jokes
 ```
 
+``` Python
+from telegram.ext.updater import Updater   # contain the API key
+```
+
+``` Python
+import CallbackContext   # handle messages from the user
+```
 
