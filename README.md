@@ -1,9 +1,9 @@
 # telegram-joke-generator
 
-This Telegram Bot with Python generates random jokes.
+This Telegram Bot with Python generates random 
 
 ````
-```
-Look! You can see my backticks.
-```
+pip install python-telegram-bot
+pip install pyjokes
 ````
+
