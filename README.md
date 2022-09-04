@@ -1,9 +1,9 @@
 # telegram-joke-generator
 
 This Telegram Bot with Python generates random jokes.
-(My first Repositorie)
+(My first Repositorie) Pull requests are welcome.
 
-# Installation
+## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
@@ -12,7 +12,7 @@ pip install python-telegram-bot
 pip install pyjokes
 ````
 
-# Usage
+## Usage
 
 ``` Python
 import pyjokes   # generates random jokes
@@ -26,3 +26,6 @@ from telegram.ext.updater import Updater   # contain the API key
 import CallbackContext   # handle messages from the user
 ```
 
+## License
+
+The code is free and anyone can use it.
