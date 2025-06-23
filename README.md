@@ -1,7 +1,7 @@
 # telegram-joke-generator
 
 This Telegram Bot with Python generates random jokes.
-(My first Repositorie) Pull requests are welcome.
+(My first Repository) Pull requests are welcome.
 
 ## Installation
 
